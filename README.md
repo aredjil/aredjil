@@ -9,9 +9,10 @@
 👯 **Looking to collaborate on:**  
 
 📫 **How to reach me:**  
-- Email: [aredjil@ictp.it](mailto:aredjil@ictp.it)  
-- LinkedIn: [Abou Bakr Essadiq REDJIL](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/redjil-abou-baker-essadiq?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
+- Email: [aredjil@ictp.it](mailto:aredjil@ictp.it)
+<!--
+- LinkedIn: [Abou Bakr Essadiq REDJIL]()
+-->
 ⚡ **Fun fact:**  
 I enjoy finding elegant solutions to seemingly unsolvable problems and love tinkering with esoteric programming languages.
 
