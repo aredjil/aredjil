@@ -27,5 +27,8 @@ I enjoy finding elegant solutions to seemingly unsolvable problems and love tink
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![Fortran](https://img.shields.io/badge/-Fortran-734F96?logo=fortran&logoColor=white&style=flat-square)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white&style=flat-square)
+![CMake](https://img.shields.io/badge/-CMake-064F8C?logo=cmake&logoColor=white&style=flat-square)
+![OpenMP](https://img.shields.io/badge/-OpenMP-1F77B4?logo=openmp&logoColor=white&style=flat-square)
+![MPI](https://img.shields.io/badge/-MPI-004D7F?logo=mpi&logoColor=white&style=flat-square)
 
 ---
