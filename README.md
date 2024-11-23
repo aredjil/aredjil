@@ -2,6 +2,7 @@
 
 🔭 **Currently working on:**  
 [N-Body Molecular Dynamic Optimization Project](https://github.com/Jh0mpis/N-Body-Molecular-Dynamics-MHPC-Project)
+
 🌱 **Currently learning:**  
 
 💬 **Ask me about:**  
@@ -14,7 +15,6 @@
 - LinkedIn: [Abou Bakr Essadiq REDJIL]()
 -->
 ⚡ **Fun fact:**  
-I enjoy finding elegant solutions to seemingly unsolvable problems and love tinkering with esoteric programming languages.
 
 ---
 
