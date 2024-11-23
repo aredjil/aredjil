@@ -31,5 +31,13 @@
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?logo=cmake&logoColor=white&style=flat-square)
 ![OpenMP](https://img.shields.io/badge/-OpenMP-1F77B4?logo=openmp&logoColor=white&style=flat-square)
 ![MPI](https://img.shields.io/badge/-MPI-004D7F?logo=mpi&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white&style=flat-square)
+![HDF5](https://img.shields.io/badge/-HDF5-0096D6?logo=hdf5&logoColor=white&style=flat-square)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white&style=flat-square)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat-square)
+
 
 ---
