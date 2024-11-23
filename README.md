@@ -1,7 +1,7 @@
 # Hi there, I'm [Abou Bakr Essadiq REDJIL]! 👋
 
 🔭 **Currently working on:**  
-
+[N-Body Molecular Dynamic Optimization Project](https://github.com/Jh0mpis/N-Body-Molecular-Dynamics-MHPC-Project)
 🌱 **Currently learning:**  
 
 💬 **Ask me about:**  
