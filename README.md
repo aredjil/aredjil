@@ -1,4 +1,4 @@
-# Hi there, I'm [Abou Bakr Essadiq REDJIL]! 👋
+# Hi there, I'm [Abou Bakr Essadiq REDJIL (Bellou)]! 👋
 
 🔭 **Currently working on:** [N-Body Molecular Dynamic Optimization Project](https://github.com/Jh0mpis/N-Body-Molecular-Dynamics-MHPC-Project)
 
