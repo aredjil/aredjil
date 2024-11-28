@@ -8,9 +8,7 @@
 - Email: [aredjil@ictp.it](mailto:aredjil@ictp.it)
 
 - LinkedIn: [Abou Bakr Essadiq REDJIL]()
-
-⚡ **Fun fact:**  
-
+- 
 ---
 
 ### My GitHub Stats 📊  
