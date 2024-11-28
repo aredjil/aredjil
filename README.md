@@ -3,17 +3,13 @@
 🔭 **Currently working on:**  
 [N-Body Molecular Dynamic Optimization Project](https://github.com/Jh0mpis/N-Body-Molecular-Dynamics-MHPC-Project)
 
-🌱 **Currently learning:**  
-
-💬 **Ask me about:**  
-
-👯 **Looking to collaborate on:**  
 
 📫 **How to reach me:**  
+
 - Email: [aredjil@ictp.it](mailto:aredjil@ictp.it)
-<!--
+
 - LinkedIn: [Abou Bakr Essadiq REDJIL]()
--->
+
 ⚡ **Fun fact:**  
 
 ---
