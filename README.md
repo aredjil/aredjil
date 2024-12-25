@@ -9,7 +9,7 @@
 
 ### My GitHub Stats 📊  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aredjil&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![wakatime](https://wakatime.com/badge/github/aredjil/amp.svg)](https://wakatime.com/badge/github/aredjil/amp)
 
 ### Technologies & Tools 🛠️  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
