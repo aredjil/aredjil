@@ -10,7 +10,6 @@
 ### My GitHub Stats 📊  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aredjil&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![WakaTime](https://wakatime.com/badge/github/aredjil/N-Body-Molecular-Dynamics-MHPC-Project)
 
 ### Technologies & Tools 🛠️  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
