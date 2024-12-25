@@ -9,7 +9,8 @@
 
 ### My GitHub Stats 📊  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aredjil&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-### My Wakatime
+
+### My WakaTime :hourglass:
 
 [![wakatime](https://wakatime.com/badge/user/5bd7448d-2290-4328-9528-96f09095a25e.svg)](https://wakatime.com/@5bd7448d-2290-4328-9528-96f09095a25e)
 
