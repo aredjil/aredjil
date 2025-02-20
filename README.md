@@ -8,7 +8,7 @@
 ---
 
 ### My GitHub Stats 📊  
-.. image:: https://wakatime.com/share/@bellou/625e50c2-4e56-465e-9662-880fbb4228ae.png:target: https://wakatime.com/
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@bellou/625e50c2-4e56-465e-9662-880fbb4228ae.png" /></a>
 ### My WakaTime :hourglass:
 
 [![wakatime](https://wakatime.com/badge/user/5bd7448d-2290-4328-9528-96f09095a25e.svg)](https://wakatime.com/@5bd7448d-2290-4328-9528-96f09095a25e)
