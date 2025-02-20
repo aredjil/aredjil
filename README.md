@@ -1,7 +1,5 @@
 # Hi there, I'm [Abou Bakr Essadiq REDJIL (Bellou)]! 👋
 
-📫 **How to reach me:**  
-
 - Email: [aredjil@ictp.it](mailto:aredjil@ictp.it)
 
 - LinkedIn: [Abou Bakr Essadiq REDJIL]()
