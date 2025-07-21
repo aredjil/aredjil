@@ -11,5 +11,5 @@
 
 My most used langauges over the past 7 days
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@aredjil/081addb9-7727-4f13-9eb5-c53ad75d5a7b.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@aredjil/595ace53-2f2f-4cdb-a1b9-51bdc986e943.png"  /></a>
 ---
