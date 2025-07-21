@@ -9,5 +9,5 @@
 
 ### My Most Used Languages 
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@bellou/a4b30a23-8a6d-4830-ae64-15fd9614622d.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@aredjil/081addb9-7727-4f13-9eb5-c53ad75d5a7b.png" /></a>
 ---
